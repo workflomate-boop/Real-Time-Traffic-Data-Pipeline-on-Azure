@@ -5,7 +5,7 @@
 ```
 Azure Maps → Function App → Event Hubs → Stream Analytics → Power BI
                               ↓
-                         SQL Database → Historical data predicts future traffic
+                         SQL Database → We will use historical data to predict future traffic
 ```
 
 ## 1. Project Planning
