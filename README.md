@@ -5,7 +5,7 @@
 ```
 Azure Maps → Function App → Event Hubs → Stream Analytics → Power BI
                               ↓
-                         SQL Database
+                         SQL Database → Use this data for future prediction
 
 ```
 
